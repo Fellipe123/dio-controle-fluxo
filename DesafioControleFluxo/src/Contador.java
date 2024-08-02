@@ -2,7 +2,8 @@ package DesafioControleFluxo.src;
 
 import java.util.Scanner;
 
-import DesafioControleFluxo.Exception.ParametrosInvalidosException;
+import DesafioControleFluxo.src.Exception.ParametrosInvalidosException;
+
 
 public class Contador {
 	public static void main(String[] args) {
